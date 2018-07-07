@@ -6,7 +6,6 @@
 * Cesar Anibal Ariza
 * Fabian Casilimas Olivar
 ## DESCRIPCIÓN DEL PROYECTO:
-Lorem ipsum dolor sit amet, consectetur adipiscing.
+App para realizar denuncias ciudadanas.
 ## FUNCIONES BÁSICAS:
 Lorem ipsum dolor sit amet, consectetur adipiscing.
-X¿

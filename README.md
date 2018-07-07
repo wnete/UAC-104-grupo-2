@@ -8,4 +8,9 @@
 ## DESCRIPCIÓN DEL PROYECTO:
 App para realizar denuncias ciudadanas.
 ## FUNCIONES BÁSICAS:
-Lorem ipsum dolor sit amet, consectetur adipiscing.
+* Ver mapa de engativá con ubicaciones de los CAI fijos.
+* Ver mapa CAI móviles.
+* Ver mapa de números de contacto.
+* Ver sitios de interés seguros  para poder visitar.
+* Poder realizar denuncias.
+

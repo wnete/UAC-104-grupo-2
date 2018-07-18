@@ -6,7 +6,7 @@
 + Cesar Anibal Ariza
 + Carlos F. Casilimas Olivar
 ## DESCRIPCIÓN DEL PROYECTO:
-App para realizar denuncias ciudadanas.
+App híbrida para realizar denuncias ciudadanas.
 ## FUNCIONES BÁSICAS:
 * Ver mapa de engativá con ubicaciones de los CAI fijos.
 * Ver mapa CAI móviles.

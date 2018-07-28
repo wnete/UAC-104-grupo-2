@@ -1,0 +1,27 @@
+<%= form_with(model: mapa, local: true) do |form| %>
+  <% if mapa.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(mapa.errors.count, "error") %> prohibited this mapa from being saved:</h2>
+
+      <ul>
+      <% mapa.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :mapa %>
+    <%= form.text_field :mapa %>
+  </div>
+
+  <div class="field">
+    <%= form.label :localidad %>
+    <%= form.text_field :localidad %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
